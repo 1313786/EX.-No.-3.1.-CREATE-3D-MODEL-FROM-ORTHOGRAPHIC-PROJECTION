@@ -1,3 +1,4 @@
+![3 1_page-0001](https://github.com/user-attachments/assets/83600247-de03-47bb-bfc5-060d12aea4db)
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 
